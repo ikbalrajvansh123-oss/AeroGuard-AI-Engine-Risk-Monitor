@@ -1,6 +1,6 @@
 streamlit==1.37.0
-torch==2.3.1
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.6.1
-plotly==5.22.0
+torch==2.5.1
+pandas
+numpy
+matplotlib
+scikit-learn
